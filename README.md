@@ -1,4 +1,4 @@
-# [![Logo](https://ref.li/ref-li/cloud73go-logo.png)](https://ref.li/about)
+<a href="https://ref.li/about"><img alt="Cloud73.de Go" src="https://ref.li/ref-li/cloud73go-logo.png" width="200"/></a>
 
 :aerial_tramway: A modern, minimalist, and lightweight URL shortener.
 
